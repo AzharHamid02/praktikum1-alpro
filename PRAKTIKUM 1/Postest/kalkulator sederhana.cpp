@@ -23,7 +23,7 @@ int main(){
 	cin>>bil2;	
 	
 	switch(pil){
-	        case 1 : hasil=bil1+bil2;
+	    case 1 : hasil=bil1+bil2;
 			operasi='+';
 			break;
 		case 2 : hasil=bil1-bil2;
